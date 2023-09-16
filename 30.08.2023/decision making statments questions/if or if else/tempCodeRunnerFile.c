@@ -1,0 +1,1 @@
+printf("total_amount is %d",total_amount);
