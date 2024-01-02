@@ -1,0 +1,7 @@
+C:\CDAC\Class Works\.net\Day 2 -22.12.2023\FunctionDemo\FunctionDemo\bin\Debug\FunctionDemo.exe.config
+C:\CDAC\Class Works\.net\Day 2 -22.12.2023\FunctionDemo\FunctionDemo\bin\Debug\FunctionDemo.exe
+C:\CDAC\Class Works\.net\Day 2 -22.12.2023\FunctionDemo\FunctionDemo\bin\Debug\FunctionDemo.pdb
+C:\CDAC\Class Works\.net\Day 2 -22.12.2023\FunctionDemo\FunctionDemo\obj\Debug\FunctionDemo.csproj.AssemblyReference.cache
+C:\CDAC\Class Works\.net\Day 2 -22.12.2023\FunctionDemo\FunctionDemo\obj\Debug\FunctionDemo.csproj.CoreCompileInputs.cache
+C:\CDAC\Class Works\.net\Day 2 -22.12.2023\FunctionDemo\FunctionDemo\obj\Debug\FunctionDemo.exe
+C:\CDAC\Class Works\.net\Day 2 -22.12.2023\FunctionDemo\FunctionDemo\obj\Debug\FunctionDemo.pdb
