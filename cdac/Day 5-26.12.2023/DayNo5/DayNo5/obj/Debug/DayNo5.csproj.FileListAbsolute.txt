@@ -1,0 +1,2 @@
+C:\CDAC\Class Works\.net\Day 5-26.12.2023\DayNo5\DayNo5\obj\Debug\DayNo5.csproj.AssemblyReference.cache
+C:\CDAC\Class Works\.net\Day 5-26.12.2023\DayNo5\DayNo5\obj\Debug\DayNo5.csproj.CoreCompileInputs.cache
