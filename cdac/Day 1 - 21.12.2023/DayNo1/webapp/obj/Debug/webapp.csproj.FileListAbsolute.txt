@@ -1,0 +1,10 @@
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\webapp\bin\Debug\webapp.exe.config
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\webapp\bin\Debug\webapp.exe
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\webapp\bin\Debug\webapp.pdb
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\webapp\obj\Debug\webapp.csproj.AssemblyReference.cache
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\webapp\obj\Debug\webapp.Form1.resources
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\webapp\obj\Debug\webapp.Properties.Resources.resources
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\webapp\obj\Debug\webapp.csproj.GenerateResource.cache
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\webapp\obj\Debug\webapp.csproj.CoreCompileInputs.cache
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\webapp\obj\Debug\webapp.exe
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\webapp\obj\Debug\webapp.pdb

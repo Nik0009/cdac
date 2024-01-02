@@ -1,0 +1,10 @@
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\Calculator\bin\Debug\Calculator.exe.config
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\Calculator\bin\Debug\Calculator.exe
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\Calculator\bin\Debug\Calculator.pdb
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\Calculator\obj\Debug\Calculator.Form1.resources
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\Calculator\obj\Debug\Calculator.exe
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\Calculator\obj\Debug\Calculator.pdb

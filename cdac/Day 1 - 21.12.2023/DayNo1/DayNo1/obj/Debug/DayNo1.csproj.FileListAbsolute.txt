@@ -1,0 +1,7 @@
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\DayNo1\bin\Debug\DayNo1.exe.config
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\DayNo1\bin\Debug\DayNo1.exe
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\DayNo1\bin\Debug\DayNo1.pdb
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\DayNo1\obj\Debug\DayNo1.csproj.AssemblyReference.cache
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\DayNo1\obj\Debug\DayNo1.csproj.CoreCompileInputs.cache
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\DayNo1\obj\Debug\DayNo1.exe
+C:\CDAC\Class Works\.net\Day 1 - 21.12.2023\DayNo1\DayNo1\obj\Debug\DayNo1.pdb
